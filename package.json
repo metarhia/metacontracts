@@ -43,7 +43,11 @@
     "eslint-config-metarhia": "^9.1.1",
     "metatests": "^0.9.0",
     "prettier": "^3.4.1",
-    "typescript": "^5.7.2",
-    "metavm": "^1.4.2"
+    "typescript": "^5.7.2"
+  },
+  "dependencies": {
+    "metautil": "^5.2.4",
+    "metavm": "^1.4.2",
+    "ws": "^8.18.0"
   }
 }
